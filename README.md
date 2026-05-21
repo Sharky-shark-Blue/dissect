@@ -71,7 +71,7 @@
 # 在你的项目根目录下
 mkdir -p .claude/commands
 curl -o .claude/commands/dissect.md \
-  https://raw.githubusercontent.com/你的用户名/dissect/main/dissect.md
+  https://raw.githubusercontent.com/Sharky-shark-Blue/dissect/main/dissect.md
 ```
 
 或者手动下载 `dissect.md` 放到 `.claude/commands/dissect.md`。
